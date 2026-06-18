@@ -1,7 +1,26 @@
-# Learn Git and GitHub
+# Git Practice Project
+A repository for learning Git and GitHub.
 
-- [x] Git Push
-- [x] Git Pull
-  - [ ]  git fetch + git merge = git pull
+## Features
 
-- [X] Git Fetch  
+- Git Basics
+- Branching
+- GitHub Workflow
+
+## Technologies
+
+- Git
+- GitHub
+- HTML
+- Markdown
+
+## Commands
+
+```bash
+git add .
+git commit -m "Initial Commit"
+git push origin main
+```
+
+## Author 
+*Md. Ariful Islam*
